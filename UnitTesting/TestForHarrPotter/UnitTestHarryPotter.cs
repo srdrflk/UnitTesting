@@ -12,10 +12,8 @@ namespace TestForHarrPotter
         public void Test_NullBookArray()
         {
             int[] books = null;
-            double result = CalculateHarryPotterBooks.CalculateTotalPrice(books);
-            //Assert.AreEqual(8.0, result);
 
-            Assert.ThrowsException<ArgumentOutOfRangeException>(() => result);
+            Assert.ThrowsException<ArgumentNullException>(() => CalculateHarryPotterBooks.CalculateTotalPrice(books));
         }
 
         [TestMethod]

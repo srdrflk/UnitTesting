@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace HarryPotter
 {
@@ -16,6 +17,8 @@ namespace HarryPotter
 
         public static double CalculateTotalPrice(int[] books)
         {
+            if (books == null) throw new ArgumentNullException(nameof(books), "The book list can not be null");
+
             const double bookPrice = 8.0;
             double totalCost = 0.0;
 
