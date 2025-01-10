@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{757ED558-F111-4D69-B6D8-348BE05521A4}|FizzBuzz\\FizzBuzz.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\fizzbuzz\\returnfizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{757ED558-F111-4D69-B6D8-348BE05521A4}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\returnfizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BB4F4A7-60F8-4B85-A848-7111D164E9B4}|TestForHarrPotter\\TestForHarrPotter.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\testforharrpotter\\unittestharrypotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB4F4A7-60F8-4B85-A848-7111D164E9B4}|TestForHarrPotter\\TestForHarrPotter.csproj|solutionrelative:testforharrpotter\\unittestharrypotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E256F49-EE01-48E5-9F1B-349C504D45CD}|TestProject\\TestProject.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\unittesting\\unittesting\\testproject\\unittestfizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E256F49-EE01-48E5-9F1B-349C504D45CD}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittestfizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC61F01C-A1B7-40D4-81BE-5A0BCEDB012D}|HarryPotter\\HarryPotter.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\harrypotter\\calculateharrypotterbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC61F01C-A1B7-40D4-81BE-5A0BCEDB012D}|HarryPotter\\HarryPotter.csproj|solutionrelative:harrypotter\\calculateharrypotterbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757ED558-F111-4D69-B6D8-348BE05521A4}|FizzBuzz\\FizzBuzz.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\fizzbuzz\\returnfizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757ED558-F111-4D69-B6D8-348BE05521A4}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\returnfizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,12 +59,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTestHarryPotter.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\TestForHarrPotter\\UnitTestHarryPotter.cs",
+              "RelativeDocumentMoniker": "TestForHarrPotter\\UnitTestHarryPotter.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\TestForHarrPotter\\UnitTestHarryPotter.cs",
+              "RelativeToolTip": "TestForHarrPotter\\UnitTestHarryPotter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:59:11.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateHarryPotterBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\HarryPotter\\CalculateHarryPotterBooks.cs",
+              "RelativeDocumentMoniker": "HarryPotter\\CalculateHarryPotterBooks.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\HarryPotter\\CalculateHarryPotterBooks.cs",
+              "RelativeToolTip": "HarryPotter\\CalculateHarryPotterBooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:52:30.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ReturnFizzBuzz.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\FizzBuzz\\ReturnFizzBuzz.cs",
               "RelativeDocumentMoniker": "FizzBuzz\\ReturnFizzBuzz.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\FizzBuzz\\ReturnFizzBuzz.cs",
               "RelativeToolTip": "FizzBuzz\\ReturnFizzBuzz.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCAAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T13:20:25.234Z",
               "EditorCaption": ""
@@ -69,7 +103,7 @@
               "RelativeDocumentMoniker": "TestProject\\UnitTestFizzBuzz.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\UnitTesting\\UnitTesting\\TestProject\\UnitTestFizzBuzz.cs",
               "RelativeToolTip": "TestProject\\UnitTestFizzBuzz.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAkAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCAAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T12:50:36.012Z",
               "EditorCaption": ""
