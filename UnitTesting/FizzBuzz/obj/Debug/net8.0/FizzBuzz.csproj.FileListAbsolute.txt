@@ -12,3 +12,4 @@ C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json

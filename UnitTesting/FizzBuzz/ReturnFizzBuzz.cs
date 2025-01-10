@@ -18,22 +18,19 @@ namespace FizzBuzz
 
         public static string WriteFizzBuzz(int number)
         {
+            if (number <= 0 || number > 100)
+                throw new ArgumentOutOfRangeException(nameof(number), "Number must be between 1 and 100 inclusive.");
+
             if (number % 3 == 0 && number % 5 == 0)
-            {
                 return "FizzBuzz";
-            }
-            else if (number % 3 == 0)
-            {
+
+            if (number % 3 == 0)
                 return "Fizz";
-            }
-            else if (number % 5 == 0)
-            {
+
+            if (number % 5 == 0)
                 return "Buzz";
-            }
-            else
-            {
-                return number.ToString();
-            }
+
+            return number.ToString();
         }
     }
 }

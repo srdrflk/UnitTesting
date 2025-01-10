@@ -115,3 +115,4 @@ C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TestProject\bin\Debug\net8.0\FizzBuzz.exe
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TestProject\bin\Debug\net8.0\FizzBuzz.dll
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TestProject\bin\Debug\net8.0\FizzBuzz.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
