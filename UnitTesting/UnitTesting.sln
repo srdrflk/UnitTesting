@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{8E256F49-EE01-48E5-9F1B-349C504D45CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotter", "HarryPotter\HarryPotter.csproj", "{FC61F01C-A1B7-40D4-81BE-5A0BCEDB012D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarryPotter", "HarryPotter\HarryPotter.csproj", "{FC61F01C-A1B7-40D4-81BE-5A0BCEDB012D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForHarrPotter", "TestForHarrPotter\TestForHarrPotter.csproj", "{3BB4F4A7-60F8-4B85-A848-7111D164E9B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestForHarrPotter", "TestForHarrPotter\TestForHarrPotter.csproj", "{3BB4F4A7-60F8-4B85-A848-7111D164E9B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisGame", "TennisGame\TennisGame.csproj", "{AADAC593-CCE6-4BE1-BE68-15E507A6268A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForTennisGame", "TestForTennisGame\TestForTennisGame.csproj", "{E0DC54D3-CDEA-490B-9FE6-270FF01513D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{3BB4F4A7-60F8-4B85-A848-7111D164E9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB4F4A7-60F8-4B85-A848-7111D164E9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB4F4A7-60F8-4B85-A848-7111D164E9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADAC593-CCE6-4BE1-BE68-15E507A6268A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADAC593-CCE6-4BE1-BE68-15E507A6268A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADAC593-CCE6-4BE1-BE68-15E507A6268A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADAC593-CCE6-4BE1-BE68-15E507A6268A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DC54D3-CDEA-490B-9FE6-270FF01513D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DC54D3-CDEA-490B-9FE6-270FF01513D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DC54D3-CDEA-490B-9FE6-270FF01513D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DC54D3-CDEA-490B-9FE6-270FF01513D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

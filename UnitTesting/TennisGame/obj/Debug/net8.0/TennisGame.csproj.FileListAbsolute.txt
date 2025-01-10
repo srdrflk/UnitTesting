@@ -1,0 +1,15 @@
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\TennisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\TennisGame.AssemblyInfoInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\TennisGame.AssemblyInfo.cs
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\TennisGame.csproj.CoreCompileInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\TennisGame.sourcelink.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\bin\Debug\net8.0\TennisGame.exe
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\bin\Debug\net8.0\TennisGame.deps.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\bin\Debug\net8.0\TennisGame.runtimeconfig.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\bin\Debug\net8.0\TennisGame.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\bin\Debug\net8.0\TennisGame.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\TennisGame.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\refint\TennisGame.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\TennisGame.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\TennisGame.genruntimeconfig.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\UnitTesting\UnitTesting\TennisGame\obj\Debug\net8.0\ref\TennisGame.dll

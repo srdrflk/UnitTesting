@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestForHarrPotter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+458386de3ee8016dc73124a670defb4aa65ab4a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+395aa0b74272752c270327225834aace0ca9c8e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestForHarrPotter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestForHarrPotter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
